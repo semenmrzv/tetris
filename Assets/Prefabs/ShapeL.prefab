@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2680068622085383764
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 186706409083915199, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.2439885
+      objectReference: {fileID: 0}
+    - target: {fileID: 186706409083915199, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.294127
+      objectReference: {fileID: 0}
+    - target: {fileID: 186706409083915199, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.07964714
+      objectReference: {fileID: 0}
+    - target: {fileID: 186706409083915199, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 186706409083915199, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 186706409083915199, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 186706409083915199, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 186706409083915199, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 186706409083915199, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 186706409083915199, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3949860467893658338, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: CellId.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3949860467893658338, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: CellId.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6071970921982029843, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: dc17ad137747d5340bdf40a7e72ec50c, type: 3}
+    - target: {fileID: 6570393918658454995, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: dc17ad137747d5340bdf40a7e72ec50c, type: 3}
+    - target: {fileID: 6876590744560828183, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_Name
+      value: ShapeL
+      objectReference: {fileID: 0}
+    - target: {fileID: 7276495689530693497, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: dc17ad137747d5340bdf40a7e72ec50c, type: 3}
+    - target: {fileID: 8722658578757398628, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8722658578757398628, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 9200557054960733137, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: dc17ad137747d5340bdf40a7e72ec50c, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
