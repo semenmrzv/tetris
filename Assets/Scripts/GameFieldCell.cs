@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class GameFieldCell
+public class GameFieldCell : MonoBehaviour
 {
     // Позиция ячейки на игровом поле
     private Vector2 _position;
