@@ -52,6 +52,10 @@ PrefabInstance:
       propertyPath: CellId.y
       value: -1
       objectReference: {fileID: 0}
+    - target: {fileID: 3541605223316708755, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
+      propertyPath: ExtraSpawnYMove
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4325829710317970077, guid: 02b4765c3af5b4d4bbdd38ab73863cb4, type: 3}
       propertyPath: m_LocalPosition.y
       value: -0.8
